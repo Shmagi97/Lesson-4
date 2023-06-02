@@ -47,10 +47,64 @@ Ul > li {
     
 }
 
+.Centerfhoto{
+
+    text-align: center;
+}
+
 .Img2{
     width: 700px;
     height: 350px;
     object-fit: cover;
     margin-top: -100px;
+}
+
+.Links{
+    
+  text-decoration: none;  
+  color: rgb(141, 135, 135);
+
+}
+
+.TextArticl{
+
+   transform: translateX(320px);
+   margin: 10px;
+}
+
+
+.TextLink{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+}
+
+.Photos{
+
+ 
+  width: 150px;
+  height: 70px;
+  cursor: pointer;
+}
+
+.PhotosCont{
+
+
+    text-align: center;
+
+   
+}
+
+.Text{
+
+    max-width: 800px;
+    
+}
+
+.TextArticl2{
+
+    transform: translateX(300px);
+    
 }
 
